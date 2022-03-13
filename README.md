@@ -16,6 +16,6 @@ Hello,Nice to meet you.
 
 organization@ndd.im
 
-abuse@ndd.im
 
-net@ndd.im
+
+* NDD-IM(中国区) 白十字会
